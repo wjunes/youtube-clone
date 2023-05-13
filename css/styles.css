@@ -95,11 +95,12 @@ footer{
     margin: 0 auto;
     width: 1480px;
     height: 70px;
+    padding: 10px;
     color: #FFF;
     background-color: #202020;
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 footer h3{
